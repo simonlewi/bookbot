@@ -1,5 +1,5 @@
-# Bookbot
-Bookbot is my first [Boot.dev](https://www.boot.dev) project!
+# BookBot
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 This is a small Python project which reads a specified .txt file and then
 
